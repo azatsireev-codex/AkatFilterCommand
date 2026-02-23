@@ -1,0 +1,8 @@
+name: AkatFilterCommand
+version: '1.0.0'
+main: ru.akat.filtercommand.AkatFilterCommandPlugin
+api-version: '1.21'
+authors:
+  - Akat
+folia-supported: true
+description: Hides inaccessible commands from / tab-completion command roots.
